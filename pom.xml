@@ -1,5 +1,9 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
+  <groupId>testtravis</groupId>
+  <artifactId>testtravis</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
 
   <repositories>
     <repository>
