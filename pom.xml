@@ -5,6 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   
+  <dependencyManagement>
   <dependency>
             <groupId>org.robolectric</groupId>
             <artifactId>robolectric</artifactId>
@@ -19,6 +20,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+ </dependencyManagement>
 
   <repositories>
     <repository>
